@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timil\\source\\repos\\CQRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6C84A-C83B-4E4A-9ABD-E07FD48972D9}|CQRS\\CQRS.csproj|c:\\users\\timil\\source\\repos\\cqrs\\cqrs\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D6C84A-C83B-4E4A-9ABD-E07FD48972D9}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6C84A-C83B-4E4A-9ABD-E07FD48972D9}|CQRS\\CQRS.csproj|c:\\users\\timil\\source\\repos\\cqrs\\cqrs\\application\\handler\\updateposthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D6C84A-C83B-4E4A-9ABD-E07FD48972D9}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\application\\handler\\updateposthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6C84A-C83B-4E4A-9ABD-E07FD48972D9}|CQRS\\CQRS.csproj|c:\\users\\timil\\source\\repos\\cqrs\\cqrs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D6C84A-C83B-4E4A-9ABD-E07FD48972D9}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6C84A-C83B-4E4A-9ABD-E07FD48972D9}|CQRS\\CQRS.csproj|c:\\users\\timil\\source\\repos\\cqrs\\cqrs\\application\\handler\\getallposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D6C84A-C83B-4E4A-9ABD-E07FD48972D9}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\application\\handler\\getallposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6C84A-C83B-4E4A-9ABD-E07FD48972D9}|CQRS\\CQRS.csproj|c:\\users\\timil\\source\\repos\\cqrs\\cqrs\\infrastructure\\database\\repositoryposts\\cacherepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D6C84A-C83B-4E4A-9ABD-E07FD48972D9}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\infrastructure\\database\\repositoryposts\\cacherepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6C84A-C83B-4E4A-9ABD-E07FD48972D9}|CQRS\\CQRS.csproj|c:\\users\\timil\\source\\repos\\cqrs\\cqrs\\infrastructure\\database\\repositoryposts\\postsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D6C84A-C83B-4E4A-9ABD-E07FD48972D9}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\infrastructure\\database\\repositoryposts\\postsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6C84A-C83B-4E4A-9ABD-E07FD48972D9}|CQRS\\CQRS.csproj|c:\\users\\timil\\source\\repos\\cqrs\\cqrs\\application\\handler\\getpostbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D6C84A-C83B-4E4A-9ABD-E07FD48972D9}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\application\\handler\\getpostbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6C84A-C83B-4E4A-9ABD-E07FD48972D9}|CQRS\\CQRS.csproj|c:\\users\\timil\\source\\repos\\cqrs\\cqrs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01D6C84A-C83B-4E4A-9ABD-E07FD48972D9}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\timil\\source\\repos\\CQRS\\CQRS\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "CQRS\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\timil\\source\\repos\\CQRS\\CQRS\\Controllers\\PostController.cs",
+              "RelativeToolTip": "CQRS\\Controllers\\PostController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:10:35.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdatePostHandler.cs",
+              "DocumentMoniker": "C:\\Users\\timil\\source\\repos\\CQRS\\CQRS\\Application\\Handler\\UpdatePostHandler.cs",
+              "RelativeDocumentMoniker": "CQRS\\Application\\Handler\\UpdatePostHandler.cs",
+              "ToolTip": "C:\\Users\\timil\\source\\repos\\CQRS\\CQRS\\Application\\Handler\\UpdatePostHandler.cs",
+              "RelativeToolTip": "CQRS\\Application\\Handler\\UpdatePostHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:10:28.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllPosts.cs",
+              "DocumentMoniker": "C:\\Users\\timil\\source\\repos\\CQRS\\CQRS\\Application\\Handler\\GetAllPosts.cs",
+              "RelativeDocumentMoniker": "CQRS\\Application\\Handler\\GetAllPosts.cs",
+              "ToolTip": "C:\\Users\\timil\\source\\repos\\CQRS\\CQRS\\Application\\Handler\\GetAllPosts.cs",
+              "RelativeToolTip": "CQRS\\Application\\Handler\\GetAllPosts.cs",
+              "ViewState": "AQIAAAoAAAAANDMzMzP7vx4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:50:10.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetPostById.cs",
+              "DocumentMoniker": "C:\\Users\\timil\\source\\repos\\CQRS\\CQRS\\Application\\Handler\\GetPostById.cs",
+              "RelativeDocumentMoniker": "CQRS\\Application\\Handler\\GetPostById.cs",
+              "ToolTip": "C:\\Users\\timil\\source\\repos\\CQRS\\CQRS\\Application\\Handler\\GetPostById.cs",
+              "RelativeToolTip": "CQRS\\Application\\Handler\\GetPostById.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:50:01.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\timil\\source\\repos\\CQRS\\CQRS\\Program.cs",
+              "RelativeDocumentMoniker": "CQRS\\Program.cs",
+              "ToolTip": "C:\\Users\\timil\\source\\repos\\CQRS\\CQRS\\Program.cs",
+              "RelativeToolTip": "CQRS\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:34:09.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\timil\\source\\repos\\CQRS\\CQRS\\appsettings.json",
+              "RelativeDocumentMoniker": "CQRS\\appsettings.json",
+              "ToolTip": "C:\\Users\\timil\\source\\repos\\CQRS\\CQRS\\appsettings.json",
+              "RelativeToolTip": "CQRS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T22:21:19.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\timil\\source\\repos\\CQRS\\CQRS\\Infrastructure\\DataBase\\RepositoryPosts\\PostsRepo.cs",
+              "RelativeDocumentMoniker": "CQRS\\Infrastructure\\DataBase\\RepositoryPosts\\PostsRepo.cs",
+              "ToolTip": "C:\\Users\\timil\\source\\repos\\CQRS\\CQRS\\Infrastructure\\DataBase\\RepositoryPosts\\PostsRepo.cs",
+              "RelativeToolTip": "CQRS\\Infrastructure\\DataBase\\RepositoryPosts\\PostsRepo.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAqwEEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:12:35.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CacheRepo.cs",
+              "DocumentMoniker": "C:\\Users\\timil\\source\\repos\\CQRS\\CQRS\\Infrastructure\\DataBase\\RepositoryPosts\\CacheRepo.cs",
+              "RelativeDocumentMoniker": "CQRS\\Infrastructure\\DataBase\\RepositoryPosts\\CacheRepo.cs",
+              "ToolTip": "C:\\Users\\timil\\source\\repos\\CQRS\\CQRS\\Infrastructure\\DataBase\\RepositoryPosts\\CacheRepo.cs",
+              "RelativeToolTip": "CQRS\\Infrastructure\\DataBase\\RepositoryPosts\\CacheRepo.cs",
+              "ViewState": "AQIAADQAAAAAzMzMzMwtwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:07:00.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
