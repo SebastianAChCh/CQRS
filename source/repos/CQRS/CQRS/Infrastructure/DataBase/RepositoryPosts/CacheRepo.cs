@@ -75,11 +75,6 @@ namespace CQRS.Infrastructure.DataBase.RepositoryPosts
                     var value = db.StringGet(key.ToString());
                     posts.Add(key.ToString(), value.ToString());
                 }
-                else
-                {
-                    // Manejar el caso en que el tipo de la clave no sea una cadena
-                    Console.WriteLine($"La clave {key} no contiene un valor de tipo cadena.");
-                }
             }
 
             return posts;

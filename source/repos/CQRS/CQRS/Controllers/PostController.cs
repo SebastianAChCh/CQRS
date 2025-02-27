@@ -49,7 +49,7 @@ namespace CQRS.Controllers
                 return BadRequest();
             }
 
-            var postCreated = await _mediator.Send(post );
+            var postCreated = await _mediator.Send(post);
 
             if (postCreated == null) {
                 return NotFound();
